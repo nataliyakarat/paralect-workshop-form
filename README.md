@@ -2,7 +2,7 @@
 
 ## Creating a Sign In page
 
-Design: [Dribbble by Kyle Byrd](https://dribbble.com/shots/2477907-Login-Page/attachments/485265)
+Design inspired by [Kyle Byrd on Dribbble](https://dribbble.com/shots/2477907-Login-Page/attachments/485265)
 
 ## Getting Started
 
@@ -14,12 +14,14 @@ Design: [Dribbble by Kyle Byrd](https://dribbble.com/shots/2477907-Login-Page/at
 ## Resources
 ### Tools
 - PostCSS (RU) https://habrahabr.ru/company/oleg-bunin/blog/310710/
+- Just interesting PostCSS usecases https://css-tricks.com/images-in-postcss/
 - Stylelint https://github.com/stylelint/stylelint
 - CSSO https://github.com/css/csso
 
 ### CSS
 - Flexbox http://html5.by/blog/flexbox/
 - Centering in CSS: A Complete Guide https://css-tricks.com/centering-css-complete-guide/
+- Form validation https://css-tricks.com/form-validation-ux-html-css/
 
 ### CSS filters
 - http://caniuse.com/#feat=css-filters
