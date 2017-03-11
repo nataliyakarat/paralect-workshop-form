@@ -13,9 +13,9 @@ Design: [Dribbble by Kyle Byrd](https://dribbble.com/shots/2477907-Login-Page/at
 
 ## Resources
 ### Tools
-- PostCSS (RU) https://www.youtube.com/watch?v=qhouBGNncGQ
+- PostCSS (RU) https://habrahabr.ru/company/oleg-bunin/blog/310710/
+- Stylelint https://github.com/stylelint/stylelint
 - CSSO https://github.com/css/csso
-- Stylelint (RU) https://www.youtube.com/watch?v=geoy-41wRQw
 
 ### CSS
 - Flexbox http://html5.by/blog/flexbox/
