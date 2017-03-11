@@ -1,0 +1,13 @@
+.icon {
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: 90% auto;
+
+  &--email {
+    background-image: svg-load("email.svg", fill: #999);
+  }
+
+  &--password {
+    background-image: svg-load("password.svg", fill: #999);
+  }
+}

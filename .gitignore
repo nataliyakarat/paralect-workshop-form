@@ -1,0 +1,13 @@
+node_modules
+
+.DS_Store
+Thumbs.db
+
+.idea
+*.sublime*
+
+*.log
+*.psd
+
+build
+.tmp
