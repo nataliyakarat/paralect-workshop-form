@@ -22,6 +22,7 @@ Design inspired by [Kyle Byrd on Dribbble](https://dribbble.com/shots/2477907-Lo
 - Flexbox http://html5.by/blog/flexbox/
 - Centering in CSS: A Complete Guide https://css-tricks.com/centering-css-complete-guide/
 - Form validation https://css-tricks.com/form-validation-ux-html-css/
+- Animations and performance https://developers.google.com/web/fundamentals/design-and-ui/animations/animations-and-performance
 
 ### CSS filters
 - http://caniuse.com/#feat=css-filters
