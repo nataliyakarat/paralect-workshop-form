@@ -12,9 +12,20 @@ Design: [Dribbble by Kyle Byrd](https://dribbble.com/shots/2477907-Login-Page/at
 - Run `npm run build` to build for production (see "build" folder)
 
 ## Resources
-- PostCSS http://postcss.org/
+### Tools
+- PostCSS (RU) https://www.youtube.com/watch?v=qhouBGNncGQ
 - CSSO https://github.com/css/csso
+- Stylelint (RU) https://www.youtube.com/watch?v=geoy-41wRQw
+
+### CSS
 - Flexbox http://html5.by/blog/flexbox/
-- CSS filters http://caniuse.com/#feat=css-filters
-- Interesting CSS3 filters http://www.cssfilters.co/
-- Icons https://www.iconfinder.com/
+- Centering in CSS: A Complete Guide https://css-tricks.com/centering-css-complete-guide/
+
+### CSS filters
+- http://caniuse.com/#feat=css-filters
+- Creating Instagram filters with CSS http://www.cssfilters.co/
+
+### SVG
+- https://github.com/TrySound/postcss-inline-svg
+- Another good way using SVG https://css-tricks.com/svg-symbol-good-choice-icons/#article-header-id-1
+- Free SVG icons https://www.iconfinder.com/
