@@ -55,7 +55,9 @@ gulp.task('styles', () => {
     .pipe($.postcss([
       require('postcss-normalize'), // latest normalize.css
       require('postcss-normalize-charset'), // @charset "utf-8"
-      require('postcss-cssnext')(), // http://cssnext.io/features/, autoprefixer already included in cssnext
+      require('postcss-cssnext')({
+        browsers: ['last 2 version']
+      }), // http://cssnext.io/features/, autoprefixer already included in cssnext
       require('postcss-inline-svg')({ // inline SVG
         path: svgPath.folder
       }),
